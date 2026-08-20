@@ -1,0 +1,5 @@
+Component,Designator,Qty,Cost (USD),Source
+"Custom PCB (2L, 66.2x36.6mm, FR-4)",PCB,5,11.25,PCBWay/JLCPCB (Gerber upload)
+Pro Micro 5V 16MHz Mini Leonardo (ATMEGA32U4),U1,2,11.47,https://robu.in
+3mm Green DIP LED,LED,50,0.84,https://robu.in/product/3mm-green-dip-led-pack-of-50/
+Total,,,23.57,
