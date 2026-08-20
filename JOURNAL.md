@@ -21,3 +21,12 @@ created_at: 2026-08-20
 <img width="1063" height="645" alt="Screenshot from 2026-08-20 13-30-44" src="https://github.com/user-attachments/assets/49950c0d-e3e0-434b-bacf-d855e7d32c23" />
 
 **Total time spent: 3h**
+
+
+
+
+# added silkscreen 
+
+i added silkscreen 
+
+time spent: 2 minutes 
