@@ -27,6 +27,11 @@ created_at: 2026-08-20
 
 # added silkscreen 
 
-i added silkscreen 
+i added silkscreen
 
-time spent: 2 minutes 
+
+<img width="744" height="389" alt="Screenshot from 2026-08-20 20-11-55" src="https://github.com/user-attachments/assets/81bda947-9650-4024-955a-2c38c42f1e51" />
+<img width="813" height="432" alt="Screenshot from 2026-08-20 20-11-22" src="https://github.com/user-attachments/assets/28c3ddfe-fcc0-4ced-85c2-dd0f243b8a57" />
+
+
+time spent: 20 minutes 
