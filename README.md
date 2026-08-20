@@ -14,8 +14,8 @@ This is a through-hole LED matrix display made with a Pro Micro and a buncha led
 
 
 # PCB
+<img width="707" height="427" alt="image" src="https://github.com/user-attachments/assets/98498386-8948-44c0-94ae-950ba971dd80" />
 
-<img width="988" height="676" alt="Screenshot from 2026-08-20 14-39-18" src="https://github.com/user-attachments/assets/12f0c718-2214-4957-aee1-e8dd28e90dd8" />
 <img width="1035" height="589" alt="image" src="https://github.com/user-attachments/assets/b7b8a562-aa17-4b92-874d-7e4fb8fc2619" />
 
 # 3d render 
