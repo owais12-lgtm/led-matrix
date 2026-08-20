@@ -2,12 +2,12 @@
 
 This is a through-hole LED matrix display made with a Pro Micro and a buncha leds! This matrix is pretty useful for small animations. . It is also made to fit on small circuit boards
 
-# features 
--> THT LEDs for ease of soldering! 
--> made with a pro micro
--> 6 X 6 matrix 
--> 36 LEDs! 
+# Features
 
+- THT LEDs for ease of soldering!
+- Made with a Pro Micro
+- 6 x 6 matrix
+- 36 LEDs!
 
 # schematic
 <img width="1063" height="645" alt="Screenshot from 2026-08-20 13-30-44" src="https://github.com/user-attachments/assets/17bdbfe0-3747-4b4d-8adc-1125e151e59d" />
